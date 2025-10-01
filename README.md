@@ -60,9 +60,9 @@
 
 | Кабінет Фахівця | Кабінет Клієнта | Редактор Планів |
 | :---: | :---: | :---: |
-| ![Знімок екрана кабінету фахівця](screenshots/Снимок экрана 2025-10-01 142532.png) | ![Знімок екрана кабінету клієнта](URL_СКРІНШОТА_2) | ![Знімок екрана редактора планів](URL_СКРІНШОТА_3) |
+| ![Знімок екрана кабінету фахівця](https://raw.githubusercontent.com/HunForge/Dr.Nutri-Showcase/main/screenshots) | ![Знімок екрана кабінету клієнта](https://raw.githubusercontent.com/HunForge/Dr.Nutri-Showcase/main/screenshots) | ![Знімок екрана редактора планів](https://raw.githubusercontent.com/HunForge/Dr.Nutri-Showcase/main/screenshots/Снимок%20экрана%202025-10-01%20143931.png) |
 | **Моніторинг AI** | **Блог** | **"Паперовий Клієнт"** |
-| ![Знімок екрана моніторингу AI](URL_СКРІНШОТА_4) | ![Знімок екрана блогу](URL_СКРІНШОТА_5) | ![Знімок екрана "Паперового клієнта"](URL_СКРІНШОТА_6) |
+| ![Знімок екрана моніторингу AI](https://raw.githubusercontent.com/HunForge/Dr.Nutri-Showcase/main/screenshots) | ![Знімок екрана блогу](https://raw.githubusercontent.com/HunForge/Dr.Nutri-Showcase/main/screenshots) | ![Знімок екрана "Паперового клієнта"](https://raw.githubusercontent.com/HunForge/Dr.Nutri-Showcase/main/screenshots) |
 
 ---
 
