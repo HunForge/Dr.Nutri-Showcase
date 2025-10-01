@@ -1,6 +1,6 @@
 # 🚀 Проєкт "Dr.Nutri" — Персональний Помічник Нутриціолога
 
-![Dr.Nutri Showcase][(URL_ДО_ВАШОГО_ГОЛОВНОГО_СКРІНШОТА)](https://github.com/HunForge/Dr.Nutri-Showcase/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-10-01%20142532.png)
+![Dr.Nutri Showcase]https://github.com/HunForge/Dr.Nutri-Showcase/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-10-01%20142532.png
 
 **[➡️ Переглянути живий сайт (Live Demo)](https://dr-nutriapp.netlify.app/)**
 
